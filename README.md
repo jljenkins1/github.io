@@ -1,6 +1,5 @@
 # github.io
-Final Project
-# Midterm-Project
+## Final Project
 ## My Personal Biography
 
 ### Joshua Jenkins
